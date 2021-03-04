@@ -1,4 +1,4 @@
-package pro.filaretov.legacy;
+package pro.filaretov.spring.patterns.blackdots.legacy;
 
 /**
  * Organ
